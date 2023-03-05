@@ -3,4 +3,3 @@
 ## Welcome to the MidTerm Project - the Favourite Book List App
 
 please use **`npm install`** to install project dependencies
->>>>>>> 50c32b56f022fe24722321ed00b7196fcac0865b
